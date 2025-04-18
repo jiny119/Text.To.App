@@ -1,0 +1,9 @@
+body { font-family: Arial; text-align: center; }
+textarea { width: 80%; height: 100px; margin: 20px; }
+button { 
+    background: #6200ee; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+}
